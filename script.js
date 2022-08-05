@@ -11,7 +11,8 @@ for (let dev of devs) {
     <p>
       <a href="${dev.repoURL}">GitHub Repo</a>
     </p>
-    <p><a href="${dev.videoURL}">Link to video presentation</a></p>
+    <p><a href="${dev.videoURL}">Video presentation</a></p>
+    <p><a href="${dev.prodURL}">Production application</a></p>
   </div>
 </div>
   `
