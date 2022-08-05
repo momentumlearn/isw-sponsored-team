@@ -2,7 +2,7 @@ devs = [
   {
     name: 'Andres Alcocer',
     description:
-      'Andres worked on greeting cards, following, and auth endpoints. Provided help to the frontend team with React and created API documentation. Video presentation is about the greeting cards endpoints (GET and POST) and implementing AES S3 buckets in a Django REST framework project.',
+      'Andres worked on greeting cards, following, and auth endpoints. Provided help to the frontend team with React and created API documentation. Video presentation is about the greeting cards endpoints (GET and POST) and implementing AWS S3 buckets in a Django REST Framework project.',
     repoURL:
       'https://github.com/Momentum-Team-13/social-e-cards-team-sugar-gliders-backend',
     prodURL: 'https://sg-ecard-api.herokuapp.com/',
